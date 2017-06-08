@@ -1,3 +1,22 @@
-# First Chapter
+# 이슈 정의하기
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+### 어떤 이슈를 나누고 싶으세요?
+
+##### 사회 / 시사  
+
+* 커뮤니티의 다양성 확보를 통해 민주주의의 건강성을 도모합니다.
+
+  온라인 광장의 역할을 하여 다양한 목소리들이 존재하고 서로 연결될 수 있는 가능성을 제공합니다.
+
+  다양한 이슈를 이야기 하고, 그 이슈가 행동으로 이어질 수 있는 커뮤니티로 운영한다.
+
+  누가 쌓았는지도 모를 돌탑을 모두 한 마음으로 쌓듯이, 공감하는 이들이 이슈를 이어나가는 곳
+
+##### 취미 
+
+* ,
+
+* ,
+
+
+
