@@ -15,10 +15,10 @@
 - 네트워킹 이후에도 서로가 연결될 수 있도록 빠띠 초대하기 
  
 #### 개요 
-소요시간 : 2시간 
-인원 : ~20명 내외 
-장소 : 자유롭게 오가고 편안한 분위기를 주는 공간 
-준비물 : 초대 포스터, 참여 신청 받기, 타임테이블, **진행 프레젠테이션**([다운로드](https://drive.google.com/open?id=0B1fCwOawxIhHeGlObDJ6ZUFoeTA)), **물고기 파티 스티커**([다운로드](https://drive.google.com/open?id=0B1fCwOawxIhHOWR4RUJVVnEyajQ)), 참석 확인 체크리스트, 장소 안내 / 행사 포스터, 간식, 펜, 카메라 
+- 소요시간 : 2시간 
+- 인원 : ~20명 내외 
+- 장소 : 자유롭게 오가고 편안한 분위기를 주는 공간 
+- 준비물 : 초대 포스터, 참여 신청 받기, 타임테이블, **진행 프레젠테이션**([다운로드](https://drive.google.com/open?id=0B1fCwOawxIhHeGlObDJ6ZUFoeTA)), **물고기 파티 스티커**([다운로드](https://drive.google.com/open?id=0B1fCwOawxIhHOWR4RUJVVnEyajQ)), 참석 확인 체크리스트, 장소 안내 / 행사 포스터, 간식, 펜, 카메라 
 
 _____ 
 
