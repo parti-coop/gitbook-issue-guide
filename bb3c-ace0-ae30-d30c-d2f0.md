@@ -20,7 +20,7 @@
 * 소요시간 : 2시간 
 * 인원 : ~20명 내외 
 * 장소 : 자유롭게 오가고 편안한 분위기를 주는 공간 
-* 준비물 : 초대 포스터, 참여 신청 받기, 타임테이블, **진행 프레젠테이션**\([다운로드](https://drive.google.com/open?id=0B1fCwOawxIhHeGlObDJ6ZUFoeTA)\), **물고기 파티 스티커**\([다운로드](https://drive.google.com/open?id=1-2Hv8zfUuGXkqs4m45UvCNzY-bnEQWc6)\), 참석 확인 체크리스트, 장소 안내 / 행사 포스터, 간식, 펜, 카메라 
+* 준비물 : 초대 포스터, 참여 신청 받기, 타임테이블, **진행 프레젠테이션**\([다운로드](https://drive.google.com/open?id=0B1fCwOawxIhHeGlObDJ6ZUFoeTA)\), **물고기 파티 스티커**\([구매하기](http://partiunion.org/products/fish-card)\), 참석 확인 체크리스트, 장소 안내 / 행사 포스터, 간식, 펜, 카메라 
 
 ---
 
@@ -56,11 +56,10 @@
 
    프레젠테이션은 본 프레젠테이션 틀을 유지한 상태에서 모임 성격에 맞는 내용을 추가하여 사용하실 수 있습니다.
 
-2. 스티커\([다운로드](https://drive.google.com/open?id=1-2Hv8zfUuGXkqs4m45UvCNzY-bnEQWc6)\) 사용방법 안내
+2. 스티커\([구매하기](http://partiunion.org/products/fish-card)\) 사용방법 안내
 
-![](/assets/물고기파티_스티커_ver2.png)
+![](/assets/물고기파티_스티커_ver2.png) 
 
-* 스티커 디자인 파일을 다운받고, 6칸 원형 라벨지를 구입\([라벨지 정보](http://m.label.kr/store/goodsDesc.aspx?pclass2=506)\)하여 일반 컬러 인쇄기로 출력하여 사용하실 수 있습니다.  
 * 노란색 부분 : **내가 관심있는 이슈 3가지** 적어보세요. 이 키워드로 자신을 소개합니다. 
 * 나머지 부분 : 흥미로운 이야기를 해준 참여자에게
   붙여줄 스티커입니다. **내 이름과 연락처 적어** 그룹토킹 시간에 각 스티커에 붙여진 '즐거워 보이는 사람', '뭐든 같이 하고 싶은 사람', '잘 될 것 같은 사람', '배우고 싶은 사람'에게 붙여주세요. 
